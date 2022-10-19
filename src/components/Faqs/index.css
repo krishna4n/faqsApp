@@ -1,0 +1,24 @@
+.container {
+  height: 100vh;
+  background-color: #f1f5f8;
+  height: 100vh;
+  padding: 5%;
+  font-family: Roboto;
+}
+.card-container {
+  background-color: #ffffff;
+  border-radius: 10px;
+  padding: 2%;
+  text-align: center;
+}
+
+.heading {
+  color: #9aa5b1;
+}
+.faq-containers {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
